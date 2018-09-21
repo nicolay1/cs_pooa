@@ -1,2 +1,2 @@
 # cs_pooa
-Centrale Supelec Pooa course
+Centrale Supelec POOA course
