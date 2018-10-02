@@ -1,4 +1,4 @@
-from threading import Thread,Lock,stack_size
+from threading import Thread,Lock
 
 verrou = Lock()
 
